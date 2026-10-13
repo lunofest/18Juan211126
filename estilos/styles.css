@@ -1336,7 +1336,7 @@ header {
 
 .album__img {
     display: flex;
-    width: clamp(100px, 75%, 350px);
+    width: clamp(100px, 45%, 150px);
     margin: 0 auto 2em;
 }
 
